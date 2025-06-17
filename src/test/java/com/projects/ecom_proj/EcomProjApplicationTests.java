@@ -1,4 +1,4 @@
-package com.simran.ecom_proj;
+package com.projects.ecom_proj;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
